@@ -59,4 +59,4 @@ Ayudar al Sr. Juan —propietario de las tiendas— a decidir cuál cerrar, enfo
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/sandra16ramirez/Challenge-Telecom-X
+   git clone https://github.com/sandra16ramirez/Challenge-Alura-Store-
